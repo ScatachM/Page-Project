@@ -1,0 +1,16 @@
+h2{
+    border: 1px solid blue;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+    gap: 20px;
+    border: 1px solid;
+}
